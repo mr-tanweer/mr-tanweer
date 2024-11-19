@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tanweer, a full-time full-stack  developer 👨‍💻 working  since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/mr-tanweer)  
+- 🔭 I’m currently working on dreams 
   
 
 - 🌱 I’m currently learning React Native   
