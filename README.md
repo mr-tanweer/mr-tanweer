@@ -1,110 +1,132 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHg4K4dlg4UFg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1709634922229?e=2147483647&v=beta&t=-XAL2FLNtM6p8rjhHcF39Qom0rJ9tTMlenSw09EnkVk" width="100%" alt="banner" />
+<!-- Custom hero banner (self-made SVG, not a stock image) -->
+<img src="./banner.svg" width="100%" alt="Tanweer - Full Stack Developer" />
 
 <br/>
 
-# Hi 👋, I'm Tanweer
-
-### Full-Stack Developer 👨‍💻 | Building with the MERN stack since 2022 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E87FB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Learning+React+Native;Tabs+Over+Spaces+%F0%9F%98%84" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=90%25&lines=const+dev+%3D+%22Tanweer%22%3B;role%3A+%22MERN+Stack+Developer%22;stack%3A+%5B%22React%22%2C+%22Node%22%2C+%22MongoDB%22%5D;status%3A+%22Building+cool+stuff+%F0%9F%9A%80%22;learning%3A+%22React+Native%22%3B" alt="Typing SVG" />
 
 <br/>
 
-## 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **dreams**
-- 🌱 I'm currently learning **React Native**
-- ❓ Ask me about anything related to **MERN stack** and related technologies
-- ⚡ Fun fact: I use **tabs over spaces**
-
-<br/>
-
-## 🛠️ My Skill Set
-
-<div align="center">
-
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 8px" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 8px" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" style="margin: 8px" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" style="margin: 8px" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 8px" /></a>
-<a href="https://jquery.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" style="margin: 8px" /></a>
-<br/>
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 8px" /></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" style="margin: 8px" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 8px" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" style="margin: 8px" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 8px" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 8px" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" style="margin: 8px" /></a>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mr-tanweer&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tanweer&hide_border=true&layout=compact" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-tanweer&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-This section will auto-update with your latest blog posts once configured.
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://www.facebook.com/tanweer02?mibextid=ZbWKwL" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+<a href="https://tanweerpro.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-tanweerpro.vercel.app-A970FF?style=for-the-badge&labelColor=0d1117" />
 </a>
-<a href="https://github.com/mr-tanweer" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://www.linkedin.com/in/md-tanweer-dev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://www.instagram.com/tanweer__dev?igsh=MTkxZWRwcDV1MHptcQ==" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
+<img src="https://img.shields.io/badge/📍_DELHI,_INDIA-0d1117?style=for-the-badge&labelColor=0d1117&color=00D9FF" />
+<img src="https://img.shields.io/badge/✅_OPEN_TO_WORK-0d1117?style=for-the-badge&labelColor=0d1117&color=00FFA3" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mr-tanweer&style=flat-square&color=A970FF&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 👨‍💻 &nbsp;About Me
+
+```yaml
+name: Tanweer
+role: MERN Stack Developer @ KLI Advertising
+based_in: Delhi, India
+experience: 3+ years shipping production web apps
+currently_learning: React Native
+currently_building: Something ambitious 🚀
+fun_fact: I use tabs over spaces 😄
+ask_me_about: [MERN Stack, AWS, Docker, Cloud Deployment]
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 🧰 &nbsp;Tech Stack
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mr-tanweer&style=flat-square&color=2E87FB" alt="profile views" />
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux&theme=dark" width="100%" style="max-width:500px" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&theme=dark" width="100%" style="max-width:320px" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,figma,vscode&theme=dark" width="100%" style="max-width:480px" />
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 💼 &nbsp;Experience
+
+<table width="100%">
+<tr><td>
+
+**🔹 MERN Stack Developer** — KLI Advertising, Delhi &nbsp; <sub>`May 2024 → Present`</sub>
+- Building full-stack apps with the MongoDB · Express · React · Node stack
+- Architecting scalable data layers with Firebase & MongoDB
+- Shipping deployments on AWS & Docker with 99.9% uptime
+- Delivering fast, SEO-friendly, user-first experiences
+
+</td></tr>
+<tr><td>
+
+**🔹 Full Stack Developer** — The Lite Speed, Jharkhand &nbsp; <sub>`Jun 2022 → Apr 2024`</sub>
+- Built responsive UIs with React, Next.js, Bootstrap & Sass
+- Designed backend logic using Node.js & Express.js
+- Integrated Cloudinary & Firebase for media and real-time data
+- Deployed & scaled infrastructure on AWS
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mr-tanweer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tanweer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=mr-tanweer&theme=tokyonight&hide_border=true&background=0d1117" width="100%" style="max-width:600px" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-tanweer&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 🏆 &nbsp;GitHub Trophies
+
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mr-tanweer&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%" style="max-width:700px" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+## 🌐 &nbsp;Connect With Me
+
+<div align="center">
+
+<a href="https://tanweerpro.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-A970FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-tanweer-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mr-tanweer" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/tanweer__ans" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/tanweer02" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:tanweer2002.nice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
 <a href="https://www.buymeacoffee.com/mr-tanweer" target="_blank">
-<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me A Coffee" />
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
 </a>
+
 </div>
 
 <br/>
 
----
+<img src="./banner.svg" width="100%" alt="footer" />
 
 <div align="center">
-<sub>⭐ Thanks for visiting my profile! Feel free to connect and collaborate.</sub>
+<sub>⭐ Thanks for stopping by — let's build something great together!</sub>
 </div>
